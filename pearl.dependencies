@@ -1,10 +1,14 @@
 [
  {
-   "repository": "android_packages_resources_devicesettings",
-   "target_path": "packages/resources/devicesettings"
+   "remote": "github",
+   "repository": "adi153/android_vendor_xiaomi-1",
+   "target_path": "vendor/xiaomi",
+   "branch": "lineage-16.0"
 },
  {
-   "repository": "android_kernel_xiaomi_msm8937",
-   "target_path": "kernel/xiaomi/msm8917"
+   "remote": "github",
+   "repository": "adi153/android_kernel_xiaomi_msm8917",
+   "target_path": "kernel/xiaomi/msm8917",
+   "branch": "lineage-16.0"
  }
 ]
